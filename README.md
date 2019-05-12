@@ -7,3 +7,4 @@ Cara install:
 -pkg install figlet
 -pkg install toilet
 -pkg install git
+-pkg install lolcat
